@@ -8,6 +8,9 @@ It is a process to data analyisis process to understand the data in depth and le
 
 ![image](https://user-images.githubusercontent.com/127126687/230762873-48ff4a5b-fe16-446d-92cb-19773c11e786.png)
 
+![image](https://user-images.githubusercontent.com/127126687/230762928-0e5320d9-4077-46b1-9d6c-a87659844503.png)
+
+
 ![image](https://user-images.githubusercontent.com/127126687/230762204-e3dfc7fa-60f1-4e04-b4db-13acdc5f6d32.png)
 
 ![image](https://user-images.githubusercontent.com/127126687/230762483-d7170de7-eb3e-452d-a65f-48fff138aa58.png)
